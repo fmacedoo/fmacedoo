@@ -1,7 +1,14 @@
-### Hi there 👋
+# Software Engineer
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fmacedoo/)](https://www.linkedin.com/in/fmacedoo/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/filasmassas/)](https://www.instagram.com/filasmassas/)
 
 <!--
 **fmacedoo/fmacedoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+##### Hi there! Feel free to message me :)
+
+I love Go, Node, React and Open Source. 
 
 Here are some ideas to get you started:
 
