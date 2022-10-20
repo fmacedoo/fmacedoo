@@ -21,3 +21,5 @@ Just someone who likes to spend the life looking at a screen full of chars and n
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmacedoo&layout=compact&langs_count=10&count_private=true&theme=dracula)](https://github.com/fmacedoo)
+
+![Filipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmacedoo&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
