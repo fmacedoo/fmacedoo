@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fmacedoo/)](https://www.linkedin.com/in/fmacedoo/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/filasmassas/)](https://www.instagram.com/filasmassas/)
 
-Just someone who likes to spend the life looking at a screen full of chars and numbers that my friends don't understand anything, and also these friends are the ones who end up telling me how they look like me cause they successfully finished setting up their wifi printers. 🤡
+Just someone who spends their life staring at screens full of characters and numbers that none of my friends understand. Ironically, they always tell me how much I remind them of themselves when they finally manage to set up their Wi-Fi printers. 🤡
 
 ![Printer](giphy.webp)
 
